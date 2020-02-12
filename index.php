@@ -26,6 +26,7 @@
         <meta charset="UTF-8">
         <title>B3W21O1</title>
         <link rel="stylesheet" href="css/style.css">
+        <link href="https://fonts.googleapis.com/css?family=Galada&display=swap" rel="stylesheet">
     </head>
     <body>
 
@@ -33,7 +34,7 @@
 
         <div>
             <h1>Goede <?php print $daytime ?>!</h1>
-            <h1><?php print $date ?></h1>
+            <h1>Het is nu <?php print $date ?></h1>
         </div>
 
 
