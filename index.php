@@ -31,8 +31,11 @@
 
         <img src="<?php print $img ?>" alt="">
 
-        <h1>Goede <?php print $daytime ?>!</h1>
-        <h1><?php print $date ?></h1>
+        <div>
+            <h1>Goede <?php print $daytime ?>!</h1>
+            <h1><?php print $date ?></h1>
+        </div>
+
 
         <script src="js/script.js"></script>
     </body>
